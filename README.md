@@ -18,7 +18,7 @@
 - Eating Animation
 - Enchanted Block Entities
 - Entity Model Features
--Entity Texture Features
+- Entity Texture Features
 - EntityCulling
 - Fabric API
 - Fabric Language Kontlin
@@ -49,15 +49,15 @@
 - Reese's Sodium Options
 - Roughly Enough Items
 - Shulker Box Tooltip
-Simple Voice Chat
-Sodium
-Sodium Extra
-spark
-Starlight
-Status Effect Bars
-wthit
-Xaero's Minimap
-Xaero's World Map
-Yeetus Experimentus
-YetAnotherConfigLib
-Zoomify
+- Simple Voice Chat
+- Sodium
+- Sodium Extra
+- spark
+- Starlight
+- Status Effect Bars
+- wthit
+- Xaero's Minimap
+- Xaero's World Map
+- Yeetus Experimentus
+- YetAnotherConfigLib
+- Zoomify
