@@ -1,3 +1,6 @@
+# How to install with Prism/ATlauncher:
+Install the modpack from [here](https://github.com/birbkeks/rinimc-modpack/releases/download/modpack/Rini.Modpack.mrpack), then click on "Add Instance" and select "Import" and browse the modpack you installed.
+
 # Mods Included In This Modpack:
 - Antighost
 - Appleskin
