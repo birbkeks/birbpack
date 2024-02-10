@@ -8,6 +8,7 @@ Install the modpack from [here](https://github.com/birbkeks/rinimc-modpack/relea
 - Bad Packets
 - Better Ping Display
 - Blur
+- Bobby
 - Capes
 - Care To Share
 - Chunky
@@ -54,7 +55,7 @@ Install the modpack from [here](https://github.com/birbkeks/rinimc-modpack/relea
 - Shulker Box Tooltip
 - Simple Voice Chat
 - Sodium
-- Sodium Extra
+- ~~Sodium Extra~~ (waiting for the new update)
 - spark
 - Starlight
 - Status Effect Bars
