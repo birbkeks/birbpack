@@ -11,7 +11,8 @@
 4. Unzip "client-side.zip" file in "mods" directory.
 5. Open the Minecraft launcher you use and select "Fabric" from the versions menu.
 
-# Mods included in this modpack:
+# Mods that are included in this modpack:
+Total of 69 (nice) mods are being used for this modpack.
 - Antighost
 - Appleskin
 - Architectury
