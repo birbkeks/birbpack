@@ -1,6 +1,6 @@
 # How to install modpack with Prism/ATlauncher: (Recommended)
 
-1. Install the modpack from [here](https://github.com/birbkeks/rinimc-modpack/releases/download/modpack/Rini.Modpack.mrpack)
+1. Install the modpack from [here](https://github.com/birbkeks/rinimc-modpack/releases/download/modpack/RiniModpack.mrpack)
 2. Click on "Add Instance", then "Import" and select "RiniModpack.mrpack".
 
 # How to install mods manually:
