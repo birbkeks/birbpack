@@ -16,6 +16,7 @@
 - Appleskin
 - Architectury
 - Bad Packets
+- Bedrock Waters
 - Better Ping Display
 - Blur
 - Bobby
@@ -30,6 +31,7 @@
 - Debugify
 - Dynamic FPS
 - Eating Animation
+- Emoji Type
 - Enchanted Block Entities
 - Entity Model Features
 - Entity Texture Features
@@ -38,6 +40,7 @@
 - Fabric Language Kontlin
 - FastQuit
 - Forge Config API Port
+- Held Item Info
 - Highlighter
 - Hold That Chunk
 - Iceberg
@@ -45,6 +48,7 @@
 - Iris
 - JamLib
 - Krypton
+- LambDynamicLights
 - LazyDFU
 - Legendary Tooltips
 - Lithium
@@ -56,6 +60,7 @@
 - More Culling
 - Narrus Yeetus
 - No Chat Reports
+- No Resource Pack Warnings
 - NotEnoughAnimations
 - OptiGUI
 - Prism
