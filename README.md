@@ -1,12 +1,12 @@
 # How to install modpack with Prism/ATlauncher: (Recommended)
 
 1. Install the modpack from [here](https://github.com/birbkeks/rinimc-modpack/releases/download/modpack/Rini.Modpack.mrpack)
-2. Click on "Add Instance" and select "Import" and browse the modpack you installed.
+2. Click on "Add Instance", then "Import" and select "RiniModpack.mrpack".
 
 # How to install mods manually:
 
 1. Install Fabric from [here](https://fabricmc.net/use/installer/).
-2. Download the mod zip file from [here](https://github.com/birbkeks/rinimc-modpack/releases/download/modzip/client-mods.zip).
+2. Download the mod zip file from [here](https://github.com/birbkeks/rinimc-modpack/releases/download/mod-zip/client-mods.zip).
 3. Open your Minecraft directory and find the "mods" folder.
 4. Unzip "client-side.zip" file in "mods" directory.
 5. Open the Minecraft launcher you use and select "Fabric" from the versions menu.
