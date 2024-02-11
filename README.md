@@ -1,4 +1,4 @@
-<a href="https://modrinth.com/modpack/birbmodpack"><img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"></a> 
+<a href="https://modrinth.com/modpack/birb-modpack"><img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"></a>
 <img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">
 
 # How to install modpack with Prism/ATlauncher: (Recommended)
@@ -12,11 +12,12 @@
 2. Download the mod zip file from [here](https://github.com/birbkeks/birb-modpack/releases/download/mod-zip/client-mods.zip).
 3. Open your Minecraft directory and find the `mods` folder.
 
-- For Windows: Press Ctrl + R and type `%appdata%` then press enter, it's in the `.minecraft` folder.
-
-- For Linux: It's located in `~/.minecraft` directory.
-
-- For MacOS: It's located in `~/Library/Application Support/minecraft` directory.
+> [!NOTE]
+> For Windows: Press Ctrl + R and type `%appdata%` then press enter, it's in the `.minecraft` folder.
+> 
+> For Linux: It's located in `~/.minecraft` directory.
+>
+> For MacOS: It's located in `~/Library/Application Support/minecraft` directory.
   
 4. Unzip `client-side.zip` file in the `mods` directory.
 5. Open the Minecraft launcher you use and select "Fabric" from the versions menu.
