@@ -91,6 +91,7 @@ Total of 82 mods are being used for this modpack.
 - Prism
 - Puzzles Lib
 - Reese's Sodium Options
+- Remove Reloading Screen 
 - Roughly Enough Items
 - Shulker Box Tooltip
 - Simple Voice Chat
