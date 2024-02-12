@@ -23,26 +23,32 @@
 5. Open the Minecraft launcher you use and select "Fabric" from the versions menu.
 
 # Mods that are included in this modpack:
-Total of 69 (nice) mods are being used for this modpack.
+Total of 82 mods are being used for this modpack.
 - Antighost
 - Appleskin
 - Architectury
+- Axolotl Buckets
 - Bad Packets
 - Bedrock Waters
 - Better Ping Display
 - Blur
+- Boat Item View
 - Bobby
+- Bounced
 - Capes
 - Care To Share
 - Chunky
+- Clear Void
 - Cloth Config
 - Clumps
 - Collective
 - CraftPresence
 - Customizable Elytra
 - Debugify
+- Draggable Lists
 - Dynamic FPS
 - Eating Animation
+- Elytra Time
 - Emoji Type
 - Enchanted Block Entities
 - Entity Model Features
@@ -50,15 +56,21 @@ Total of 69 (nice) mods are being used for this modpack.
 - EntityCulling
 - Fabric API
 - Fabric Language Kontlin
+- Fast IP Ping
 - FastQuit
+- FerriteCore
+- Fix Keyboard on Linux
+- ForceLowerCaseCommands
 - Forge Config API Port
 - Held Item Info
 - Highlighter
 - Hold That Chunk
 - Iceberg
+- Immediately Fast
 - Indium
 - Iris
 - JamLib
+- kennytv's epic force close loading screen
 - Krypton
 - LambDynamicLights
 - LazyDFU
@@ -73,6 +85,7 @@ Total of 69 (nice) mods are being used for this modpack.
 - Narrus Yeetus
 - No Chat Reports
 - No Resource Pack Warnings
+- NoChatClear
 - NotEnoughAnimations
 - OptiGUI
 - Prism
@@ -81,6 +94,7 @@ Total of 69 (nice) mods are being used for this modpack.
 - Roughly Enough Items
 - Shulker Box Tooltip
 - Simple Voice Chat
+- Smooth Menu
 - Sodium
 - ~~Sodium Extra~~ (waiting for the new update)
 - spark
