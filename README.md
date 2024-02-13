@@ -3,6 +3,11 @@
 
 # How to install modpack with Prism/ATlauncher: (Recommended)
 
+## With Modrinth Modpacks
+1. Click on "Add Instance", then "Modrinth" and search for "birb modpack".
+2. Select the version you want to install (lastest version is recommended), and hit "OK".
+
+## Manual Installation
 1. Install the modpack from [here](https://github.com/birbkeks/birb-modpack/releases/download/modpack-0.0.2/BirbModpack.mrpack)
 2. Click on "Add Instance", then "Import" and select `BirbModpack.mrpack`.
 
@@ -23,7 +28,7 @@
 5. Open the Minecraft launcher you use and select "Fabric" from the versions menu.
 
 # Mods that are included in this modpack:
-Total of 81 mods are being used for this modpack.1
+Total of 81 mods are being used in this modpack.
 - Allow Portal GUIs
 - Antighost
 - Appleskin
