@@ -23,7 +23,8 @@
 5. Open the Minecraft launcher you use and select "Fabric" from the versions menu.
 
 # Mods that are included in this modpack:
-Total of 82 mods are being used for this modpack.
+Total of 81 mods are being used for this modpack.1
+- Allow Portal GUIs
 - Antighost
 - Appleskin
 - Architectury
@@ -31,23 +32,23 @@ Total of 82 mods are being used for this modpack.
 - Bad Packets
 - Bedrock Waters
 - Better Ping Display
+- Better Recipe Book
+- Better Text Selection
+- BetterF3
 - Blur
 - Boat Item View
 - Bobby
 - Bounced
 - Capes
-- Care To Share
-- Chunky
+- ChatAnimation
 - Clear Void
 - Cloth Config
 - Clumps
 - Collective
 - CraftPresence
-- Customizable Elytra
 - Debugify
-- Draggable Lists
-- Dynamic FPS
 - Eating Animation
+- Elytra Pitch
 - Elytra Time
 - Emoji Type
 - Enchanted Block Entities
@@ -59,13 +60,13 @@ Total of 82 mods are being used for this modpack.
 - Fast IP Ping
 - FastQuit
 - FerriteCore
-- Fix Keyboard on Linux
 - ForceLowerCaseCommands
 - Forge Config API Port
 - Held Item Info
 - Highlighter
 - Hold That Chunk
 - Iceberg
+- IdleTweaks
 - Immediately Fast
 - Indium
 - Iris
@@ -94,11 +95,9 @@ Total of 82 mods are being used for this modpack.
 - Remove Reloading Screen 
 - Roughly Enough Items
 - Shulker Box Tooltip
-- Simple Voice Chat
 - Smooth Menu
 - Sodium
 - ~~Sodium Extra~~ (waiting for the new update)
-- spark
 - Starlight
 - Status Effect Bars
 - wthit
