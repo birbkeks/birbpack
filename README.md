@@ -8,13 +8,13 @@
 2. Select the version you want to install (lastest version is recommended), and hit "OK".
 
 ## Manual Installation
-1. Install the modpack from [here](https://github.com/birbkeks/birb-modpack/releases/download/modpack-0.0.2/BirbModpack.mrpack)
+1. Install the modpack from [here](https://github.com/birbkeks/birb-modpack/releases/download/modpack-0.0.3/BirbModpack.mrpack)
 2. Click on "Add Instance", then "Import" and select `BirbModpack.mrpack`.
 
 # How to install mods manually:
 
 1. Install Fabric from [here](https://fabricmc.net/use/installer/).
-2. Download the mod zip file from [here](https://github.com/birbkeks/birb-modpack/releases/download/mod-zip-0.0.2/client-mods.zip).
+2. Download the mod zip file from [here](https://github.com/birbkeks/birb-modpack/releases/download/mod-zip-0.0.3/client-mods.zip).
 3. Open your Minecraft directory and find the `mods` folder.
 
 > [!NOTE]
