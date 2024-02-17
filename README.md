@@ -108,6 +108,7 @@ Total of 92 mods are being used in this modpack.
 - Reese's Sodium Options
 - Remove Reloading Screen 
 - Roughly Enough Items
+- Screenshot to Clipboard
 - Shulker Box Tooltip
 - Smooth Menu
 - Sodium
