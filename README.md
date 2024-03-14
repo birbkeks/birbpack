@@ -8,13 +8,13 @@
 2. Select the version you want to install (lastest version is recommended), and hit "OK".
 
 ## Manual Installation
-1. Install the modpack from [here](https://github.com/birbkeks/birb-modpack/releases/download/modpack-0.0.5/BirbModpack.mrpack)
+1. Install the modpack from [here](https://modrinth.com/modpack/birb-modpack/version/0.0.6)
 2. Click on "Add Instance", then "Import" and select `BirbModpack.mrpack`.
 
 # How to install mods manually:
 
 1. Install Fabric from [here](https://fabricmc.net/use/installer/).
-2. Download the mod zip file from [here](https://github.com/birbkeks/birb-modpack/releases/download/mod-zip-0.0.5/client-mods.zip).
+2. Download the mod zip file from [here](https://github.com/birbkeks/birb-modpack/releases/download/mod-zip-0.0.6/client-mods.zip).
 3. Open your Minecraft directory and find the `mods` folder.
 
 > [!NOTE]
@@ -28,7 +28,7 @@
 5. Open the Minecraft launcher you use and select "Fabric" from the versions menu.
 
 # Mods that are included in this modpack:
-Total of 92 mods are being used in this modpack.
+Total of 96 mods are being used in this modpack.
 - Allow Portal GUIs
 - Antighost
 - Appleskin
@@ -46,6 +46,7 @@ Total of 92 mods are being used in this modpack.
 - Blur
 - Boat Item View
 - Bobby
+- Bookshelf
 - Bounced
 - Break Free
 - Capes
@@ -62,6 +63,7 @@ Total of 92 mods are being used in this modpack.
 - Elytra Pitch
 - Elytra Time
 - Emoji Type
+- EnchantmentDescriptions
 - Enchanted Block Entities
 - Entity Model Features
 - Entity Texture Features
@@ -103,6 +105,7 @@ Total of 92 mods are being used in this modpack.
 - NotEnoughAnimations
 - OptiGUI
 - Open Sauce Toast Killer
+- Particle Core 
 - Prism
 - Puzzles Lib
 - Reese's Sodium Options
@@ -115,6 +118,7 @@ Total of 92 mods are being used in this modpack.
 - ~~Sodium Extra~~ (waiting for the new update)
 - Starlight
 - Status Effect Bars
+- Tooltip Fix
 - Water Vision
 - wthit
 - Xaero's Minimap
