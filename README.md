@@ -8,13 +8,13 @@
 2. Select the version you want to install (lastest version is recommended), and hit "OK".
 
 ## Manual Installation
-1. Install the modpack from [here](https://modrinth.com/modpack/birb-modpack/version/0.0.6)
-2. Click on "Add Instance", then "Import" and select `BirbModpack.mrpack`.
+1. Install the modpack from [here](https://modrinth.com/modpack/birb-modpack/version/0.0.7)
+2. Click on "Add Instance", then "Import" and select `birbmodpack.mrpack`.
 
-# How to install mods manually:
+  # [DISCONTINUED] How to install mods manually:
 
 1. Install Fabric from [here](https://fabricmc.net/use/installer/).
-2. Download the mod zip file from [here](https://github.com/birbkeks/birb-modpack/releases/download/mod-zip-0.0.6/client-mods.zip).
+2. Download the mod zip file from [here](https://github.com/birbkeks/birb-modpack/releases/download/mod-zip-0.0.7/client-mods.zip).
 3. Open your Minecraft directory and find the `mods` folder.
 
 > [!NOTE]
@@ -28,7 +28,7 @@
 5. Open the Minecraft launcher you use and select "Fabric" from the versions menu.
 
 # Mods that are included in this modpack:
-Total of 96 mods are being used in this modpack.
+Total of 104 mods are being used in this modpack.
 - Allow Portal GUIs
 - Antighost
 - Appleskin
@@ -41,8 +41,8 @@ Total of 96 mods are being used in this modpack.
 - Better Recipe Book
 - Better Statistics Screen
 - Better Text Selection
-- Block Meter
 - BetterF3
+- Block Meter
 - Blur
 - Boat Item View
 - Bobby
@@ -50,7 +50,9 @@ Total of 96 mods are being used in this modpack.
 - Bounced
 - Break Free
 - Capes
+- Centered Crosshair
 - ChatAnimation
+- Chest Boat Patch
 - Clear Void
 - Cloth Config
 - Clumps
@@ -58,16 +60,15 @@ Total of 96 mods are being used in this modpack.
 - CraftPresence
 - Damage Numbers
 - Debugify
-- Dynamic FPS
 - Eating Animation
 - Elytra Pitch
 - Elytra Time
 - Emoji Type
 - EnchantmentDescriptions
-- Enchanted Block Entities
 - Entity Model Features
 - Entity Texture Features
 - EntityCulling
+- Exordium
 - Fabric API
 - Fabric Language Kontlin
 - Fast IP Ping
@@ -76,6 +77,8 @@ Total of 96 mods are being used in this modpack.
 - ForceLowerCaseCommands
 - Forge Config API Port
 - Freecam
+- Full Brightness Toggle
+- Harvest
 - Held Item Info
 - Highlighter
 - Hold That Chunk
@@ -100,8 +103,10 @@ Total of 96 mods are being used in this modpack.
 - More Culling
 - Narrus Yeetus
 - No Chat Reports
+- No Reports Button
 - No Resource Pack Warnings
 - NoChatClear
+- NoRefreshScroll
 - NotEnoughAnimations
 - OptiGUI
 - Open Sauce Toast Killer
@@ -113,9 +118,11 @@ Total of 96 mods are being used in this modpack.
 - Roughly Enough Items
 - Screenshot to Clipboard
 - Shulker Box Tooltip
-- Smooth Menu
+- Simple Fog Control
+- Smooth Scrolling Refurbished
+- Smooth Skies
 - Sodium
-- ~~Sodium Extra~~ (waiting for the new update)
+- Sodium Extra
 - Starlight
 - Status Effect Bars
 - Tooltip Fix
