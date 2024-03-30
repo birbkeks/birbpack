@@ -34,7 +34,7 @@
 
 # Mods that are included in this modpack:
 
-Total of 104 (62 MB) mods are being used in this modpack (for version 0.0.7).
+Total of 104 (62 MB) mods are included in this modpack (for version 0.0.7).
 
 - Allow Portal GUIs
 - Antighost
