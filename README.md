@@ -1,13 +1,14 @@
-<a href="https://modrinth.com/modpack/birb-modpack"><img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"></a>
-<img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">
+<a href="https://modrinth.com/modpack/birb-modpack"><img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg"></a> 
+<img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg"> 
+<img alt="forge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/unsupported/forge_vector.svg"> 
 
-# How to install modpack on 3rd Party Clients:
+# How to install modpack on 3rd Party Launchers:
 
-## Clients like Prism Launcher/ATlauncher
+## Launchers like Prism Launcher/ATlauncher
 1. Click on "Add Instance", then "Modrinth" and search for "birb modpack".
 2. Select the version you want to install (latest version is recommended), and hit "OK".
 
-## Manual Installation for Other Clients
+## Manual Installation for Other Launchers
 1. Install the modpack from [here](https://modrinth.com/modpack/birb-modpack/versions)
 2. Click on "Add Instance", then "Import" and select `birbmodpack.mrpack`.
 
@@ -16,7 +17,7 @@
 > [!CAUTION]
 > This method is discontinued because of the some mods needing to be configured in order to make it work without issues, by using this method you can't recieve the configrations I made for the modpack.
 >
->  Please install Open Sourced 3rd Party Minecraft Clients to use this modpack. 
+>  Please install open source 3rd party Minecraft launchers (like ATlauncher or Prism Launcher) to use this modpack. 
 
 1. Install Fabric from [here](https://fabricmc.net/use/installer/).
 2. Download the mod zip file from [here](https://github.com/birbkeks/birb-modpack/releases).
