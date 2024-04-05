@@ -34,7 +34,7 @@
 
 # Mods that are included in this modpack:
 
-Total of 100 (62 MB) mods are included in this modpack (for version 0.0.8).
+Total of 100 (61.9 MB) mods are included in this modpack (for version 0.0.8).
 - Allow Portal GUIs
 - Antighost
 - Appleskin
