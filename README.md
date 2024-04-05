@@ -34,23 +34,20 @@
 
 # Mods that are included in this modpack:
 
-Total of 104 (62 MB) mods are included in this modpack (for version 0.0.7).
-
+Total of 100 (62 MB) mods are included in this modpack (for version 0.0.8).
 - Allow Portal GUIs
 - Antighost
 - Appleskin
 - Architectury
 - Attack Through Grass
-- Axolotl Buckets
-- Bad Packets
 - Bedrock Waters
 - Better Ping Display
-- Better Recipe Book
 - Better Statistics Screen
 - Better Text Selection
 - BetterF3
 - Block Meter
 - Blur
+- Blåhaj of Undying
 - Boat Item View
 - Bobby
 - Bookshelf
@@ -58,19 +55,18 @@ Total of 104 (62 MB) mods are included in this modpack (for version 0.0.7).
 - Break Free
 - Capes
 - Centered Crosshair
+- Chat Patches
 - ChatAnimation
 - Chest Boat Patch
 - Clear Void
 - Cloth Config
 - Clumps
 - Collective
-- CraftPresence
+- Continuity
 - Damage Numbers
 - Debugify
 - Eating Animation
-- Elytra Pitch
-- Elytra Time
-- Emoji Type
+- Enchantment Level Language Patch
 - EnchantmentDescriptions
 - Entity Model Features
 - Entity Texture Features
@@ -81,6 +77,8 @@ Total of 104 (62 MB) mods are included in this modpack (for version 0.0.7).
 - Fast IP Ping
 - FastQuit
 - FerriteCore
+- FixElytraBug
+- Flight Assistant
 - ForceLowerCaseCommands
 - Forge Config API Port
 - Freecam
@@ -94,6 +92,7 @@ Total of 104 (62 MB) mods are included in this modpack (for version 0.0.7).
 - Indium
 - Iris
 - Item Borders
+- Jade
 - JamLib
 - kennytv's epic force close loading screen
 - Krypton
@@ -106,17 +105,14 @@ Total of 104 (62 MB) mods are included in this modpack (for version 0.0.7).
 - Model Gap Fix
 - ModernFix
 - Monsters in the Closet
-- More Chat History
 - More Culling
 - Narrus Yeetus
 - No Chat Reports
 - No Reports Button
 - No Resource Pack Warnings
-- NoChatClear
 - NoRefreshScroll
 - NotEnoughAnimations
 - OptiGUI
-- Open Sauce Toast Killer
 - Particle Core 
 - Prism
 - Puzzles Lib
@@ -125,7 +121,6 @@ Total of 104 (62 MB) mods are included in this modpack (for version 0.0.7).
 - Roughly Enough Items
 - Screenshot to Clipboard
 - Shulker Box Tooltip
-- Simple Fog Control
 - Smooth Scrolling Refurbished
 - Smooth Skies
 - Sodium
@@ -133,8 +128,8 @@ Total of 104 (62 MB) mods are included in this modpack (for version 0.0.7).
 - Starlight
 - Status Effect Bars
 - Tooltip Fix
+- Video Tape
 - Water Vision
-- wthit
 - Xaero's Minimap
 - Xaero's World Map
 - Yeetus Experimentus
