@@ -5,14 +5,14 @@
 # How to install modpack on 3rd Party Launchers:
 
 ## Launchers like Prism Launcher/ATlauncher
-1. Click on "Add Instance", then "Modrinth" and search for "birb modpack".
+1. Click on "Add Instance", then "Modrinth" and search for "birbpack".
 2. Select the version you want to install (latest version is recommended), and hit "OK".
 
 ## Manual Installation for Other Launchers
 1. Install the modpack from [here](https://modrinth.com/modpack/birb-modpack/versions)
-2. Click on "Add Instance", then "Import" and select `birbmodpack.mrpack`.
+2. Click on "Add Instance", then "Import" and select `birbpack.mrpack`.
 
-# [DISCONTINUED] How to install mods on Official Minecraft Launcher/individually:
+# [DISCONTINUED] How to install mods on Official Minecraft Launcher/individually
 
 > [!CAUTION]
 > This method is discontinued because of the some mods needing to be configured in order to make it work without issues, by using this method you can't recieve the configrations I made for the modpack.
